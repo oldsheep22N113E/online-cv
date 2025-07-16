@@ -37,7 +37,7 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: chinese
+    - idiom: Chinese
       level: Native
 
     - idiom: English
@@ -49,15 +49,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
     - item: Cooking
+      link:
+
+
+    - item: 
+      link:
+
+
+    - item: 
       link:
 
 
@@ -73,8 +73,8 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
+  - degree: 
+    university: Guangdong University of Finance
     time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,8 +84,8 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
+  - degree: 
+    university: 
     time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -99,16 +99,16 @@ education:
 experiences:
   title: 
   info:
-  - role: Lead Developer
+  - role: 
     time: 
-    company: Startup Hubs, San Francisco
+    company: 
     details: |
 
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
+  - role: 
     time: 
-    company: Google, London
+    company: 
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,9 +117,9 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-  - role: UI Developer
+  - role: 
     time: 
-    company: Amazon, London
+    company: 
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -132,13 +132,13 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: 
+    start: 
+    end: 
+    organization: 
+    credentialid: 1
+    credentialurl: 
+    credentialname: 
     details: |
       Details about cert. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
@@ -153,13 +153,13 @@ certifications:
       fringilla vel. Ut euismod, sem sed vulputate venenatis,
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+  - name: 
     start: 
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
       Older certification. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
@@ -176,8 +176,8 @@ projects:
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    link: 
+    tagline: 
 
   - title: DevStudio
     link: "#"
@@ -237,20 +237,17 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: 
+    email: 
+    phone: 
+    role: 
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      
+  - person: 
+    email: 
+    phone: 
+    role: 
     recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
