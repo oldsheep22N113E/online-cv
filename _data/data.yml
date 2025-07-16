@@ -37,13 +37,13 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: chinese
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
+    - idiom: Japanese
       level: Professional
 
   interests:
