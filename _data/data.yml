@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: 
-  tagline: Full Stack Developer
+  tagline: 
   avatar: 
 
   # Sidebar links
@@ -162,7 +162,7 @@ certifications:
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
   - name: Git learning
-    start: 2019
+    start: 
     end:
     organization: Microsoft
     credentialid: 111-222
