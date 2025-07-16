@@ -13,8 +13,8 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: 
+  phone: 
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -75,7 +75,7 @@ education:
   info:
   - degree: MSc in Computer Science
     university: University of London
-    time: 2011 - 2012
+    time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -86,7 +86,7 @@ education:
         - Bullet point
   - degree: BSc in Applied Mathematics
     university: Bristol University
-    time: 2007 - 2011
+    time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -115,7 +115,7 @@ experiences:
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
-    time: 2014 - 2015
+    time: 
     company: Google, London
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -126,7 +126,7 @@ experiences:
         - Bullet point
         - Bullet point
   - role: UI Developer
-    time: 2012 - 2014
+    time: 
     company: Amazon, London
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
