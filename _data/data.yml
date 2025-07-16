@@ -8,13 +8,13 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: 
+  name: RUN
   tagline: 
   avatar: 
 
   # Sidebar links
-  email: 
-  phone: 
+  email: A1153692559@outlook.com
+  phone: +85257770852
   timezone: 
   citizenship:
   website:
@@ -73,9 +73,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: 
+  - degree: BSC
     university: Guangdong University of Finance
-    time: 
+    time: 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
